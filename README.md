@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋 I'm Hyunmin.
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairFrida&accessoriesType=Prescription02&facialHairType=MoustacheFancy&facialHairColor=Red&clotheType=BlazerShirt&eyeType=Squint&eyebrowType=UpDown&mouthType=Smile&skinColor=Light'
+/>
 #### let Introduce my repositories.  
 #### "OZ_Study" and "MiniProjects" are subjects I studied at my institute.
 ***
